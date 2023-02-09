@@ -1,1 +1,1 @@
-<meta http-equiv="Refresh" content="2; url='https://ln.tips/.well-known/lnurlp/encik_kubis'" />
+{"callback":"https://ln.tips/.well-known/lnurlp/encik_kubis","maxSendable":100000000000,"minSendable":1000,"metadata":"[[\"text/plain\",\"Pay to user: encik_kubis\"],[\"text/identifier\",\"encik_kubis@ln.tips\"]]","commentAllowed":32,"tag":"payRequest"}
