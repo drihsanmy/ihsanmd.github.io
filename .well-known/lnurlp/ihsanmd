@@ -1,0 +1,11 @@
+# GET https://api.lnpay.co/v1/wallet/wa_Opnn4kGOGBMnfCLFXtsDnjTb/lnurl-process?ott=2pHDk5C0N8HD&num_satoshis=3
+
+{
+    "callback": "https://api.lnpay.co/v1/user/wallet/wa_Opnn4kGOGBMnfCLFXtsDnjTb/lnurl-process?ott=2pHDk5C0N8HD",
+    "k1": "k1",
+    "maxWithdrawable": 2000, # wallet uses this to prefill amount. it is in msats
+    "defaultDescription": "LNPay.co Wallet Withdraw", # wallet uses this to prefill memo
+    "minWithdrawable": 0,
+    "tag": "withdrawRequest",
+    "balanceCheck": "https://api.lnpay.co/v1/wallet/wa_Opnn4kGOGBMnfCLFXtsDnjTb/lnurl-process?ott=QXoPMksjJeBq"
+}
