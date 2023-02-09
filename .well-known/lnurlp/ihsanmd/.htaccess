@@ -1,6 +1,3 @@
-Redirect 301 / 
-
-
 RewriteEngine on
 RewriteBase /
 RewriteRule (.*) https://ln.tips/.well-known/lnurlp/encik_kubis/$1 [R=301,L]
