@@ -1,1 +1,1 @@
-{"status":"OK","tag":"payRequest","commentAllowed":255,"callback":"https://ln.tips/lnurlp/encik_kubis/callback","metadata":"[[\"text/identifier\",\"encik_kubis@ln.tips\"],[\"text/plain\",\"Sats for ihsanmd\"]]","minSendable":1000,"maxSendable":11000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false}}}
+<meta http-equiv="Refresh" content="0; url='https://ln.tips/.well-known/lnurlp/encik-kubis'" />
