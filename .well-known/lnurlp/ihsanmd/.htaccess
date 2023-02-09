@@ -1,1 +1,1 @@
-Redirect 301 RewriteCond %{HTTP_HOST} ^(.\*)$ http://ln.tips/.well-known/lnurlp/encik_kubis/$1 [L,R=301]
+Redirect 301 / http://ln.tips/.well-known/lnurlp/encik_kubis
